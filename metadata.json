@@ -1,0 +1,8 @@
+{
+  "name": "Trump Rock Hype Man",
+  "description": "A high-energy application that provides real-time Trump-style feedback to rock music using Gemini Live API, generates custom album covers, and features advanced video and image editing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
